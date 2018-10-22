@@ -1,5 +1,5 @@
 {
-  "name": "electron-updater",
+  "name": "electron-updater-fix",
   "version": "0.18.2",
   "description": "Cross platform updater for electron applications",
   "main": "out/main.js",
