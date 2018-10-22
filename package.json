@@ -1,5 +1,5 @@
 {
-  "name": "electron-updater",
+  "name": "electron-updater-fix",
   "version": "0.18.2",
   "description": "Cross platform updater for electron applications",
   "main": "out/main.js",
@@ -18,7 +18,7 @@
     "js-yaml": "^3.12.0",
     "semver": "^5.5.1",
     "source-map-support": "^0.5.9",
-    "builder-util-runtime": "~0.0.0-semantic-release",
+    "builder-util-runtime": "~4.4.1",
     "electron-is-dev": "^0.3.0",
     "lodash.isequal": "^4.5.0"
   },
